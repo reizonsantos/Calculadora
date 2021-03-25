@@ -15,7 +15,7 @@ This project is a clone of a calculator, where it will have its functions of:
 ### Built With
 
 * [React](https://pt-br.reactjs.org/)
-* [Node](https://nodejs.org/en/)
+* [JavaScript](https://www.javascript.com/)
 
 
 ## Getting Started
