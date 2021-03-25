@@ -15,6 +15,7 @@ This project is a clone of a calculator, where it will have its functions of:
 ### Built With
 
 * [React](https://pt-br.reactjs.org/)
+* [Node](https://nodejs.org/en/)
 
 
 ## Getting Started
@@ -24,10 +25,10 @@ This is a example on how to download and install this project.
 
 ### Prerequisites
 
-First you need to have the NPM installed in your machine, if you don't have it installed, with this command bellow you can install NPM.
-* npm
+First you need to have the NPM and Node installed in your machine, if you don't have it installed just follow this tutorial.
+* Node + NPM
   ```sh
-  npm install npm@latest -g
+  https://www.npmjs.com/get-npm
   ```
 
 
