@@ -1,6 +1,6 @@
 ## Calculator
 
-<p align="center">
+<p>
   <img src="https://github.com/reizonsantos/Calculadora/blob/main/img/calcApp.png" width="350">
 </p>
 
